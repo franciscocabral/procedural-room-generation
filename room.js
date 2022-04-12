@@ -1,4 +1,4 @@
-const seed = "gagonilson";
+const seed = "gabonilson";
 const mapHeight = 40;
 const mapWidth = 80;
 const maxRooms = 40;
